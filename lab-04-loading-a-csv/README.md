@@ -10,7 +10,7 @@ Here is the graphical representation of the data model of the database:
 ![](images/00-Graph_data_model.png)
 
 ## A Day of Data
-For this portion of the lab, we're going to work with a subset of the data.  Our full dataset is a year of data.  However, we'll just be playing around with a a subset of a day's worth.  The data is [here](https://storage.googleapis.com/neo4j-datasets/form13/form13-v2-2023-05-11.csv).
+For this portion of the lab, we're going to work with a subset of the data.  Our full dataset is a year of data.  However, we'll just be playing around with a subset of a day's worth.  The data is [here](https://storage.googleapis.com/neo4j-datasets/form13/form13-v2-2023-05-11.csv).
 
 You may want to download the data and load it into your favorite tool for exploring CSV files.  Pandas, Excel or anything else should be able to make short work of it.  Once you understand what's in the data, the next step would be to load it into Neo4j.
 
