@@ -1,5 +1,7 @@
 # Hands on Neo4j AI & ML Labs 
-__Using Google Vertex AI__
+___Using Google Vertex AI___
+
+__:warning: This project is intended for training & learning and is subject to rapid changes.  Please create a separate fork of this project if you would like to tweak for use in other demos and events.__
 
 Neo4j is the [leading graph database](https://db-engines.com/en/ranking/graph+dbms) vendor.  We’ve worked closely with Google Cloud engineering for years.  Our products, AuraDB and AuraDS are offered as managed services on Google Cloud.  Neo4j Enterprise Edition, which includes Graph Database, Graph Data Science and Bloom is offered in the [Google Cloud Marketplace](https://console.cloud.google.com/marketplace/browse?q=neo4j).
 
